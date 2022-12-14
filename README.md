@@ -1,5 +1,7 @@
 # Malaria_Diagnostic_Convolutional_Neural_Network
 
+Skills: Deep learning, computer vision
+
 Find the data for this project in this link: https://drive.google.com/file/d/1n3o1Xghpy9ufZwHkQFE5l5d9sUHQOUWM/view
 
 In 2019, there were over 229 million cases of malaria with over 400,000 deaths. 67% of these deaths were children under the age of 5. The traditional gold standard of malaria requires and experienced technician. Using deep learning, we can provide more accurate diagnosis of malaria without the need for experienced technician to read the results. Ultimately, implementation of this project in the world of public health would help reduce transmission and provide diagnostic information to save lives.
